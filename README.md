@@ -1,4 +1,4 @@
-# Coinbase Wallet SDK
+# Coinbase Wallet SDK# Coinbase Wallet SDK
 
 [![npm](https://img.shields.io/npm/v/@coinbase/wallet-sdk.svg)](https://www.npmjs.com/package/@coinbase/wallet-sdk)
 
