@@ -1,5 +1,5 @@
 # Coinbase Wallet SDK# Coinbase Wallet SDK
-
+Coinbase Wallet SDK# Coinb
 [![npm](https://img.shields.io/npm/v/@coinbase/wallet-sdk.svg)](https://www.npmjs.com/package/@coinbase/wallet-sdk)
 
 ## Coinbase Wallet SDK allows dapps to connect to Coinbase Wallet
