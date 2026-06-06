@@ -1,4 +1,4 @@
-# Coinbase Wallet SDK# Coinbase Wallet SDK
+evandrofgarcia.1975eu@gmail.com# Coinbase Wallet SDK# Coinbase Wallet SDK
 Coinbase Wallet SDK# Coinb
 [![npm](https://img.shields.io/npm/v/@coinbase/wallet-sdk.svg)](https://www.npmjs.com/package/@coinbase/wallet-sdk)
 
